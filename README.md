@@ -36,7 +36,10 @@ A modern React app for simulating tax-loss harvesting, with real-time capital ga
 ![Holdings Table](./Tax-loss-Harvesting/public/Holding-1.png)
 
 #### Holdings Table Video Demo
-<video src="./Tax-loss-Harvesting/public/holdings-video.mp4" controls width="600">Your browser does not support the video tag.</video>
+
+[![Holdings Table Video](./Tax-loss-Harvesting/public/Holding-1.png)](./Tax-loss-Harvesting/public/holdings-video.mp4)
+
+> **Note:** GitHub and some markdown viewers do not support inline video playback. Click the image above to download or play the video in your browser.
 
 ### Tooltip Example
 ![Tooltip Example](./Tax-loss-Harvesting/public/image-2.png)
