@@ -23,7 +23,7 @@ A modern React app for simulating tax-loss harvesting, with real-time capital ga
    ```
    The app will be available at [http://localhost:5173](http://localhost:5173) by default.
 
-    Hosted app link: []
+    Hosted app link: [https://tax-loss-harvesting-kappa.vercel.app/]
 ---
 
 ## 🖼️ Screenshots
